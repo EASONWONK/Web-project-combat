@@ -2,8 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2048i" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Web Project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Web project combat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Web-project-combat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/i2048/i2048" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/web" vcs="Git" />
   </component>
 </project>
